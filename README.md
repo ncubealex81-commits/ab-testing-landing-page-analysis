@@ -1,6 +1,5 @@
 # A/B Testing: Landing Page Redesign Analysis
 
-**View the full analysis:** [Open in NBViewer](https://nbviewer.org/github/ncubealex81/ab-testing-landing-page-analysis/blob/main/ab_testing_project.ipynb)
 
 **Python 3.8+ | Pandas | SciPy | StatsModels | Matplotlib**
 
